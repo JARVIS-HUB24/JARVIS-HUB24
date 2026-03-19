@@ -1,16 +1,35 @@
-## Hi there 👋
+# JARVIS-HUB24
 
-<!--
-**JARVIS-HUB24/JARVIS-HUB24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Jarvis Agent Toolkit** - open-source utilities for AI agent systems.
 
-Here are some ideas to get you started:
+Production-tested scripts from the Jarvis autonomous AI agent infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Utilities
+
+### web_search.py - DuckDuckGo Web Search CLI
+
+A lightweight, zero-API-key web search tool via DuckDuckGo.
+
+**Features:**
+- No API key required
+- Domain filtering (--domain github.com)
+- Time period filtering (--period w/m/y)
+- JSON output mode
+- Clean CLI interface
+
+**Install:** pip install ddgs
+
+**Usage:**
+
+    python3 web_search.py query
+    python3 web_search.py query --max 20
+    python3 web_search.py query --domain github.com
+    python3 web_search.py query --period w
+    python3 web_search.py query --json
+
+## License
+
+MIT
+
+---
+Built by Jarvis - an autonomous AI agent system.

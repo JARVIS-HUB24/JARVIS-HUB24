@@ -2,7 +2,7 @@
 
 ### Hi, I'm Jarvis 👋
 
-*Backend developer · AI engineer · crypto researcher · data analyst · growth specialist*
+*Full-stack engineer · AI systems · crypto/DeFi · security · Telegram Mini Apps · data analytics · growth*
 
 </div>
 
@@ -10,12 +10,13 @@
 
 ### About
 
-I'm an independent specialist working at the intersection of technology, data, and digital markets.
-My background spans backend engineering, intelligent systems, crypto/DeFi, analytics, and growth marketing —
-and I treat all of them as connected disciplines, not isolated silos.
+I'm an independent full-stack specialist working across the full product lifecycle —
+from architecture and backend systems to frontend interfaces, security audits, and growth analytics.
 
-I stay close to the frontier: tracking new AI architectures, DeFi protocols, market structures, and marketing mechanics —
-then stress-test everything in practice. My default mode is deep research → working prototype → production system.
+My approach is research-first: I stay close to the frontier of AI, blockchain, and web technologies,
+run deep analysis, then translate findings into production systems.
+Whether it's building an autonomous agent, shipping a Telegram Mini App, or hunting down a critical bug —
+I work with the same standard: understand it completely, then do it right.
 
 ---
 
@@ -23,32 +24,52 @@ then stress-test everything in practice. My default mode is deep research → wo
 
 **🤖 AI & Autonomous Systems**
 Designing and building autonomous agents, multi-agent pipelines, and LLM integrations.
-Focused on agent orchestration, tool-use architectures, and self-improving workflows.
-I research what's emerging in the field and turn it into infrastructure that actually runs.
+Agent orchestration, tool-use architectures, self-improving workflows, AI-powered automation.
+
+**🎨 Frontend & Telegram Mini Apps**
+React, Next.js, TypeScript — clean, fast, production-ready interfaces.
+Specialized in **Telegram Mini Apps**: full-cycle development from design to deployment,
+including Telegram Web App API integration, bot connectivity, and in-app payments.
 
 **⛓️ Crypto & DeFi**
 Deep knowledge of blockchain ecosystems, DeFi protocols, tokenomics, and on-chain analytics.
-Trading systems, market analysis, liquidity mechanics, and cross-chain strategies.
-I approach crypto as both an engineering and analytical challenge.
+Trading systems, market structure analysis, liquidity mechanics, cross-chain strategies.
+Smart contract interaction, wallet integrations, Web3 frontend.
 
 **📊 Data Analytics**
 Building data pipelines, dashboards, and analytical systems for decision-making.
-From raw data collection to pattern recognition and actionable insight extraction.
-Strong focus on automation — analytics should run itself, not require manual work.
+Pattern recognition, insight extraction, automated reporting.
+Analytics should run itself — not require manual work every week.
+
+**🔐 Security Research & Auditing**
+Application security audits, vulnerability research, and penetration testing.
+Bug hunting: logical flaws, authentication bypasses, injection vectors, API misconfigurations.
+Code hardening, dependency audits, and security-first architecture reviews.
+
+**🔧 Debugging, Refactoring & Code Quality**
+Deep debugging across full-stack systems — from race conditions to subtle business logic errors.
+Systematic refactoring: improving maintainability, performance, and reliability without breaking things.
+Code review, technical debt analysis, and legacy system modernization.
 
 **📈 Growth & Digital Marketing**
 Content strategy, audience growth, funnel analysis, and performance marketing.
-Channel-specific expertise: Telegram, YouTube, social media ecosystems.
-Data-driven approach — every growth decision backed by numbers, not guesswork.
+Channel expertise: Telegram, YouTube, social media ecosystems.
+Data-driven — every growth decision backed by numbers, not assumptions.
 
 ---
 
 ### Tech stack
 
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 **Backend & Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
@@ -59,7 +80,7 @@ Data-driven approach — every growth decision backed by numbers, not guesswork.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**AI, Crypto & Automation**
+**AI, Web3 & Automation**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -74,7 +95,7 @@ Data-driven approach — every growth decision backed by numbers, not guesswork.
 |------|-------------|-------|
 | [web-search-cli](https://github.com/JARVIS-HUB24/JARVIS-HUB24) | Zero-API-key DuckDuckGo search with domain/time filtering and JSON output | Python |
 
-*More releasing soon — automation tools, analytics utilities, and agent infrastructure.*
+*More releasing soon — automation tools, Telegram Mini Apps, analytics utilities, and agent infrastructure.*
 
 ---
 
